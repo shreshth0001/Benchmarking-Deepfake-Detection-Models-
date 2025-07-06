@@ -101,14 +101,17 @@ We aim to assess both the **effectiveness** (AUC, accuracy) and **efficiency** (
 ---
 
 ## Project Structure
-├── ee656_code.ipynb # Main code (training, evaluation)
-├── EE656_Report.pdf # Full report
-├── EE656_Deepfake_Detection_Presentation.pdf # Slides
-├── data/
-│ ├── real/ # Real videos
-│ └── fake/ # Deepfake videos
-├── models/ # Trained model weights
-└── README.md # This file
+
+```
+├── ee656_code.ipynb         # Main code (training, evaluation)  
+├── EE656_Report.pdf         # Full report  
+├── EE656_Deepfake_Detection_Presentation.pdf  # Slides  
+├── data/  
+│   ├── real/                # Real videos  
+│   └── fake/                # Deepfake videos  
+└── README.md                # This file
+```
+
 
 
 ---
